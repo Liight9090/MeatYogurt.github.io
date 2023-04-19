@@ -1,0 +1,13 @@
+body {
+    color: white;
+    font-size: 30px;
+    ;
+}
+
+.mybox1 {
+    background-color: lightcoral;
+    min-height: 200px;
+    margin: 20px 10px;
+    padding: 20px;
+}
+
